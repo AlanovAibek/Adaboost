@@ -1,0 +1,300 @@
+Trained 1 weak classifiers.
+Accuracy on train set:	0.661487
+Accuracy on test set:	0.644444
+Trained 2 weak classifiers.
+Accuracy on train set:	0.661487
+Accuracy on test set:	0.644444
+Trained 3 weak classifiers.
+Accuracy on train set:	0.678135
+Accuracy on test set:	0.671111
+Trained 4 weak classifiers.
+Accuracy on train set:	0.687014
+Accuracy on test set:	0.662222
+Trained 5 weak classifiers.
+Accuracy on train set:	0.716981
+Accuracy on test set:	0.68
+Trained 6 weak classifiers.
+Accuracy on train set:	0.706992
+Accuracy on test set:	0.68
+Trained 7 weak classifiers.
+Accuracy on train set:	0.712542
+Accuracy on test set:	0.693333
+Trained 8 weak classifiers.
+Accuracy on train set:	0.72919
+Accuracy on test set:	0.666667
+Trained 9 weak classifiers.
+Accuracy on train set:	0.738069
+Accuracy on test set:	0.688889
+Trained 10 weak classifiers.
+Accuracy on train set:	0.745838
+Accuracy on test set:	0.693333
+Trained 11 weak classifiers.
+Accuracy on train set:	0.738069
+Accuracy on test set:	0.671111
+Trained 12 weak classifiers.
+Accuracy on train set:	0.745838
+Accuracy on test set:	0.68
+Trained 13 weak classifiers.
+Accuracy on train set:	0.754717
+Accuracy on test set:	0.693333
+Trained 14 weak classifiers.
+Accuracy on train set:	0.775805
+Accuracy on test set:	0.693333
+Trained 15 weak classifiers.
+Accuracy on train set:	0.769145
+Accuracy on test set:	0.693333
+Trained 16 weak classifiers.
+Accuracy on train set:	0.776915
+Accuracy on test set:	0.68
+Trained 17 weak classifiers.
+Accuracy on train set:	0.779134
+Accuracy on test set:	0.706667
+Trained 18 weak classifiers.
+Accuracy on train set:	0.781354
+Accuracy on test set:	0.711111
+Trained 19 weak classifiers.
+Accuracy on train set:	0.782464
+Accuracy on test set:	0.697778
+Trained 20 weak classifiers.
+Accuracy on train set:	0.789123
+Accuracy on test set:	0.702222
+Trained 21 weak classifiers.
+Accuracy on train set:	0.786903
+Accuracy on test set:	0.697778
+Trained 22 weak classifiers.
+Accuracy on train set:	0.791343
+Accuracy on test set:	0.684444
+Trained 23 weak classifiers.
+Accuracy on train set:	0.798002
+Accuracy on test set:	0.688889
+Trained 24 weak classifiers.
+Accuracy on train set:	0.792453
+Accuracy on test set:	0.68
+Trained 25 weak classifiers.
+Accuracy on train set:	0.802442
+Accuracy on test set:	0.706667
+Trained 26 weak classifiers.
+Accuracy on train set:	0.803552
+Accuracy on test set:	0.688889
+Trained 27 weak classifiers.
+Accuracy on train set:	0.809101
+Accuracy on test set:	0.706667
+Trained 28 weak classifiers.
+Accuracy on train set:	0.81576
+Accuracy on test set:	0.688889
+Trained 29 weak classifiers.
+Accuracy on train set:	0.829079
+Accuracy on test set:	0.697778
+Trained 30 weak classifiers.
+Accuracy on train set:	0.8202
+Accuracy on test set:	0.688889
+Trained 31 weak classifiers.
+Accuracy on train set:	0.82242
+Accuracy on test set:	0.702222
+Trained 32 weak classifiers.
+Accuracy on train set:	0.81465
+Accuracy on test set:	0.697778
+Trained 33 weak classifiers.
+Accuracy on train set:	0.824639
+Accuracy on test set:	0.702222
+Trained 34 weak classifiers.
+Accuracy on train set:	0.826859
+Accuracy on test set:	0.697778
+Trained 35 weak classifiers.
+Accuracy on train set:	0.829079
+Accuracy on test set:	0.715556
+Trained 36 weak classifiers.
+Accuracy on train set:	0.830189
+Accuracy on test set:	0.697778
+Trained 37 weak classifiers.
+Accuracy on train set:	0.833518
+Accuracy on test set:	0.706667
+Trained 38 weak classifiers.
+Accuracy on train set:	0.834628
+Accuracy on test set:	0.706667
+Trained 39 weak classifiers.
+Accuracy on train set:	0.846837
+Accuracy on test set:	0.711111
+Trained 40 weak classifiers.
+Accuracy on train set:	0.837958
+Accuracy on test set:	0.72
+Trained 41 weak classifiers.
+Accuracy on train set:	0.840178
+Accuracy on test set:	0.715556
+Trained 42 weak classifiers.
+Accuracy on train set:	0.842397
+Accuracy on test set:	0.702222
+Trained 43 weak classifiers.
+Accuracy on train set:	0.840178
+Accuracy on test set:	0.702222
+Trained 44 weak classifiers.
+Accuracy on train set:	0.853496
+Accuracy on test set:	0.72
+Trained 45 weak classifiers.
+Accuracy on train set:	0.851276
+Accuracy on test set:	0.702222
+Trained 46 weak classifiers.
+Accuracy on train set:	0.856826
+Accuracy on test set:	0.706667
+Trained 47 weak classifiers.
+Accuracy on train set:	0.857936
+Accuracy on test set:	0.702222
+Trained 48 weak classifiers.
+Accuracy on train set:	0.857936
+Accuracy on test set:	0.697778
+Trained 49 weak classifiers.
+Accuracy on train set:	0.866815
+Accuracy on test set:	0.706667
+Trained 50 weak classifiers.
+Accuracy on train set:	0.855716
+Accuracy on test set:	0.706667
+Trained 51 weak classifiers.
+Accuracy on train set:	0.873474
+Accuracy on test set:	0.706667
+Trained 52 weak classifiers.
+Accuracy on train set:	0.872364
+Accuracy on test set:	0.706667
+Trained 53 weak classifiers.
+Accuracy on train set:	0.879023
+Accuracy on test set:	0.702222
+Trained 54 weak classifiers.
+Accuracy on train set:	0.875694
+Accuracy on test set:	0.706667
+Trained 55 weak classifiers.
+Accuracy on train set:	0.877913
+Accuracy on test set:	0.706667
+Trained 56 weak classifiers.
+Accuracy on train set:	0.871254
+Accuracy on test set:	0.715556
+Trained 57 weak classifiers.
+Accuracy on train set:	0.871254
+Accuracy on test set:	0.702222
+Trained 58 weak classifiers.
+Accuracy on train set:	0.881243
+Accuracy on test set:	0.697778
+Trained 59 weak classifiers.
+Accuracy on train set:	0.881243
+Accuracy on test set:	0.697778
+Trained 60 weak classifiers.
+Accuracy on train set:	0.882353
+Accuracy on test set:	0.693333
+Trained 61 weak classifiers.
+Accuracy on train set:	0.883463
+Accuracy on test set:	0.697778
+Trained 62 weak classifiers.
+Accuracy on train set:	0.882353
+Accuracy on test set:	0.693333
+Trained 63 weak classifiers.
+Accuracy on train set:	0.881243
+Accuracy on test set:	0.697778
+Trained 64 weak classifiers.
+Accuracy on train set:	0.886792
+Accuracy on test set:	0.693333
+Trained 65 weak classifiers.
+Accuracy on train set:	0.890122
+Accuracy on test set:	0.702222
+Trained 66 weak classifiers.
+Accuracy on train set:	0.90566
+Accuracy on test set:	0.693333
+Trained 67 weak classifiers.
+Accuracy on train set:	0.90788
+Accuracy on test set:	0.697778
+Trained 68 weak classifiers.
+Accuracy on train set:	0.91121
+Accuracy on test set:	0.711111
+Trained 69 weak classifiers.
+Accuracy on train set:	0.91232
+Accuracy on test set:	0.702222
+Trained 70 weak classifiers.
+Accuracy on train set:	0.91232
+Accuracy on test set:	0.697778
+Trained 71 weak classifiers.
+Accuracy on train set:	0.91343
+Accuracy on test set:	0.706667
+Trained 72 weak classifiers.
+Accuracy on train set:	0.914539
+Accuracy on test set:	0.711111
+Trained 73 weak classifiers.
+Accuracy on train set:	0.91232
+Accuracy on test set:	0.724444
+Trained 74 weak classifiers.
+Accuracy on train set:	0.918979
+Accuracy on test set:	0.72
+Trained 75 weak classifiers.
+Accuracy on train set:	0.914539
+Accuracy on test set:	0.715556
+Trained 76 weak classifiers.
+Accuracy on train set:	0.923418
+Accuracy on test set:	0.72
+Trained 77 weak classifiers.
+Accuracy on train set:	0.927858
+Accuracy on test set:	0.724444
+Trained 78 weak classifiers.
+Accuracy on train set:	0.927858
+Accuracy on test set:	0.702222
+Trained 79 weak classifiers.
+Accuracy on train set:	0.931188
+Accuracy on test set:	0.715556
+Trained 80 weak classifiers.
+Accuracy on train set:	0.934517
+Accuracy on test set:	0.697778
+Trained 81 weak classifiers.
+Accuracy on train set:	0.931188
+Accuracy on test set:	0.715556
+Trained 82 weak classifiers.
+Accuracy on train set:	0.930078
+Accuracy on test set:	0.702222
+Trained 83 weak classifiers.
+Accuracy on train set:	0.935627
+Accuracy on test set:	0.697778
+Trained 84 weak classifiers.
+Accuracy on train set:	0.933407
+Accuracy on test set:	0.697778
+Trained 85 weak classifiers.
+Accuracy on train set:	0.934517
+Accuracy on test set:	0.697778
+Trained 86 weak classifiers.
+Accuracy on train set:	0.938957
+Accuracy on test set:	0.711111
+Trained 87 weak classifiers.
+Accuracy on train set:	0.943396
+Accuracy on test set:	0.702222
+Trained 88 weak classifiers.
+Accuracy on train set:	0.941176
+Accuracy on test set:	0.711111
+Trained 89 weak classifiers.
+Accuracy on train set:	0.943396
+Accuracy on test set:	0.72
+Trained 90 weak classifiers.
+Accuracy on train set:	0.945616
+Accuracy on test set:	0.706667
+Trained 91 weak classifiers.
+Accuracy on train set:	0.942286
+Accuracy on test set:	0.724444
+Trained 92 weak classifiers.
+Accuracy on train set:	0.937847
+Accuracy on test set:	0.702222
+Trained 93 weak classifiers.
+Accuracy on train set:	0.938957
+Accuracy on test set:	0.702222
+Trained 94 weak classifiers.
+Accuracy on train set:	0.943396
+Accuracy on test set:	0.693333
+Trained 95 weak classifiers.
+Accuracy on train set:	0.941176
+Accuracy on test set:	0.706667
+Trained 96 weak classifiers.
+Accuracy on train set:	0.940067
+Accuracy on test set:	0.697778
+Trained 97 weak classifiers.
+Accuracy on train set:	0.940067
+Accuracy on test set:	0.711111
+Trained 98 weak classifiers.
+Accuracy on train set:	0.936737
+Accuracy on test set:	0.697778
+Trained 99 weak classifiers.
+Accuracy on train set:	0.945616
+Accuracy on test set:	0.72
+Trained 100 weak classifiers.
+Accuracy on train set:	0.941176
+Accuracy on test set:	0.706667
